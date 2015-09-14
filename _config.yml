@@ -1,5 +1,6 @@
 # Site settings
 title: EIP Nyxo
+title_shown: false
 email: eipnyxo@gmail.com
 url: //eipnyxo.github.io
 description: "Le site du projet Nyxo"
