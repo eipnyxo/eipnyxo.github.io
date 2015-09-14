@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
-description: "Hello World post"
+title: Nyxo
+description: "Nyxo, le projet"
 modified: 2015-09-13
 tags: [hello world]
 ---
 
-This is our first post !
+
