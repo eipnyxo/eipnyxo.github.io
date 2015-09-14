@@ -13,10 +13,10 @@
 {% for post in site.posts %}
 <section class="row {% cycle 'odd', 'even' %}">
   <div class="container">
-    <div class="col-lg-12">
+    <div class="col-lg-8 col-lg-offset-2">
       <h3 style="text-align: center;">{{ post.title }}</h3>
-      <p>
-      {{post.content}}
+      <p style="text-align: justify;">
+        {{post.content}}
       </p>
     </div>
   </div>

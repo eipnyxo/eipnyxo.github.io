@@ -22,11 +22,11 @@ p.small {
 }
 
 .odd {
-  background-color: #ecf0f1 !important;
+  background-color: #{{ site.color.tertiary }} !important;
 }
 
 .even {
-  background-color: #1dcfac !important;
+  background-color: #{{ site.color.primary }} !important;
 }
 
 a,
