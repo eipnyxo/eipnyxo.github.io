@@ -3,7 +3,6 @@ layout: default
 title: Technologies utilisées
 modified: 2015-09-13
 ---
-sdf
 
 L'application Desktop est réalisée grâce à :
 
