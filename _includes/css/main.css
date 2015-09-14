@@ -10,6 +10,11 @@ body {
 
 .success#portfolio {
   background-color: #{{ site.color.primary }};
+  padding: 100px;
+  padding-bottom: 20px;
+}
+
+.post-article {
   padding: 50px;
 }
 
@@ -19,14 +24,6 @@ p {
 
 p.small {
     font-size: 16px;
-}
-
-.odd {
-  background-color: #{{ site.color.tertiary }} !important;
-}
-
-.even {
-  background-color: #{{ site.color.primary }} !important;
 }
 
 a,
@@ -187,7 +184,7 @@ section {
     padding: 100px 0;
 }
 
-section h2 {
+section h2, #portfolio h2 {
     margin: 0;
     font-size: 3em;
 }
@@ -466,4 +463,22 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+
+ 
+.odd {
+  background-color: #{{ site.color.odd }} !important;
+}
+
+.odd .star-light:after, .odd .star-primary:after {
+  background-color: #{{ site.color.odd }} !important;
+}
+
+.even {
+  background-color: #{{ site.color.even }} !important;
+}
+
+.even .star-light:after, .even .star-primary:after {
+  background-color: #{{ site.color.even }} !important;
 }
