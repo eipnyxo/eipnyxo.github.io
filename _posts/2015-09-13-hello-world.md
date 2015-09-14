@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nyxo
+title: Présentation de Nyxo
 description: "Nyxo, le projet"
 modified: 2015-09-13
 ---
