@@ -2,6 +2,7 @@
 layout: default
 title: Communautaire
 modified: 2015-09-13
+type: article
 ---
 L'application comporte un système de groupe.<br>
 En effet, l'utilisateur peut crée un groupe, le gérer (Groupe privé / public, invitations, ...), 

@@ -2,6 +2,7 @@
 layout: default
 title: Plateformes
 modified: 2015-09-13
+type: article
 ---
 
 Nyxo sera disponible sur les plateformes suivantes :
