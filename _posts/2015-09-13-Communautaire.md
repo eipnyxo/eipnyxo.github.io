@@ -4,7 +4,6 @@ title: Communautaire
 modified: 2015-09-13
 ---
 L'application comporte un système de groupe. 
-
 En effet, l'utilisateur peut crée un groupe, le gérer (Groupe privé / public, invitations, ...), 
 et l’utiliser afin de partager du contenu avec tous les membres du groupe,
 Les différents membres d'un groupe peuvent :
