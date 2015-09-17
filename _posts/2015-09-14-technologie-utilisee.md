@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technologies utilisées
-modified: 2015-09-13
+modified: 2015-09-14
 ---
 
 L'application Desktop est réalisée grâce à :
