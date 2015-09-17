@@ -16,7 +16,6 @@ L'application Android est réalisée grâce à :
 
 - Android SDK / Google Play Services Library
 - Android Studio (IDE)
-- 
 
 Partie serveur :
 
