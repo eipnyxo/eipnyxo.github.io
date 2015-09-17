@@ -7,6 +7,7 @@ L'application comporte un système de groupe.
 En effet, l'utilisateur peut crée un groupe, le gérer (Groupe privé / public, invitations, ...), 
 et l’utiliser afin de partager du contenu avec tous les membres du groupe,
 Les différents membres d'un groupe peuvent :
+
 - Noter la qualité des fichiers partagés.
 - Commenter le contenu présent au sein du groupe.
 - Discuter avec les autres membres.
