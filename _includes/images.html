@@ -1,0 +1,24 @@
+<!-- Portfolio Grid Section -->
+<div class="success" id="portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 style="color: white;">Mockups</h2>
+        <hr class="star-light">
+      </div>
+    </div>
+  </div>
+</div>
+<section class="row post-article">
+  <div class="container">
+    {% for post in site.images %}
+    <div class="col-lg-6 col-lg-offset-3">
+      <h3 style="text-align: center;">{{ post.title }}</h3>
+      <hr class="star-primary">
+      <p style="text-align: justify;">
+        {{post.content}}
+      </p>
+    </div>
+    {% endfor %}
+  </div>
+</section>
