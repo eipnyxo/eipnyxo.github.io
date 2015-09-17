@@ -13,5 +13,6 @@ L'application Desktop est réalisée grâce à :
 
 
 L'application Android est réalisée grâce à :
+
 - Android SDK / Google Play Services Library
 - Android Studio (IDE)
