@@ -21,7 +21,7 @@ L'application Android est réalisée grâce à :
 Partie serveur :
 
 - Redis (bdd) -> plus performant pour les sessions
-- Ejabberd (serveur xmpp/jabber) ou p2pChat <span style="color: white">[repo](https://github.com/mshahriarinia/Golang)</span>
+- Ejabberd (serveur xmpp/jabber) ou p2pChat [repo](https://github.com/mshahriarinia/Golang)
 - Mysql
 - Nginx
 - Phabricator
